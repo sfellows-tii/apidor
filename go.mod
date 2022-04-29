@@ -1,4 +1,4 @@
-module github.com/bncrypted/apidor
+module github.com/sfellows-tii/apidor
 
 go 1.14
 
